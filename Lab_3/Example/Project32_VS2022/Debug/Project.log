@@ -1,0 +1,4 @@
+﻿  Assembling Task1.asm...
+c:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+Task1.obj : error LNK2005: _main@0 already defined in Example.obj
+D:\Github\COAL Lab\Lab_3\Task1\Project32_VS2022\Debug\Project.exe : fatal error LNK1169: one or more multiply defined symbols found

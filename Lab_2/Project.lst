@@ -1,4 +1,4 @@
-Microsoft (R) Macro Assembler Version 14.37.32820.0	    09/12/23 10:28:44
+Microsoft (R) Macro Assembler Version 14.37.32820.0	    09/19/23 09:36:38
 Example.asm						     Page 1 - 1
 
 
@@ -53,7 +53,7 @@ Example.asm						     Page 1 - 1
  0000004E  E8 00000000 E   *	    call   ExitProcess
  00000053			main ENDP
 				END main
-Microsoft (R) Macro Assembler Version 14.37.32820.0	    09/12/23 10:28:44
+Microsoft (R) Macro Assembler Version 14.37.32820.0	    09/19/23 09:36:38
 Example.asm						     Symbols 2 - 1
 
 
